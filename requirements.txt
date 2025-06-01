@@ -1,3 +1,4 @@
 streamlit
 pandas
-diyepw
+diyepw==1.2.3
+xarray==0.16.2
